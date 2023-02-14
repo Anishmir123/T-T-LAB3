@@ -1,3 +1,4 @@
+#WAP to calculate the factorial of a given number
 num = int(input("Enter the number: "))
 fact=1
 if(num<0):
