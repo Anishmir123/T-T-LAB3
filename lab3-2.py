@@ -1,3 +1,4 @@
+#WAP to calculate the sum of digit of a given number
 num = int(input("Enter the number: "))
 
 sum=0
