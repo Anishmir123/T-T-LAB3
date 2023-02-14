@@ -1,3 +1,4 @@
+#WAP to find the GCD/HCF of two number
 def findHCF():
     if x>y:
         smaller = y
