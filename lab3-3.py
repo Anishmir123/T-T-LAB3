@@ -1,3 +1,4 @@
+ #WAP to to display the reverse of a number entered through keywords
 num =int(input("Enter the number: "))
 
 rev=0
