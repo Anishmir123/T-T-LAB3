@@ -1,3 +1,4 @@
+#pattern for n rows
 def print_pattern(n):
     for i in range(n):
         for j in range(i+1):
